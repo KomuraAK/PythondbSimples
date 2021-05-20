@@ -1,5 +1,5 @@
 # PythondbSimples
 Banco de dados simples feito em Python
-Sem GUI
+sem GUI
 
 Uso livre, sem patente!
